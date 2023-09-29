@@ -7,7 +7,7 @@ This is my repository that will hold my lab assignments. 🌻
 | Task name                    | Information | Link |
 | ---------------------------- | ----------- | ---- |
 | `'Lab 1 - GIT to work'`      | Made a voice-controlled music player |   https://github.com/EviVermeeren/DEV5-LAB1 / https://codesandbox.io/s/speech-music-7qswsd?file=/index.html   |
-| `'Lab 2 - Islands'`          | 👩🏻👨🏻👩🏼👨🏼👩🏼‍🦰👨🏼‍🦰🤶🏼🎅🏼             | https://github.com/EviVermeeren/DEV5-myportfolio/tree/main/lab2 / https://codesandbox.io/s/islands-starter-forked-c4t22s?file=/js/classes/World.js:2036-2058      |
+| `'Lab 2 - Islands'`          | 👩🏻👨🏻👩🏼👨🏼👩🏼‍🦰👨🏼‍🦰🤶🏼🎅🏼             | |
 | `'Lab 3 - Weather Based Ad'` |             |      |
 | `'Lab 4 - NodeJS'`           |             |      |
 | `'Lab 5 - VueJS'`            |             |      |
