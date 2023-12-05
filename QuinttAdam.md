@@ -14,3 +14,13 @@
 ##  Lab4
 [Github link](https://github.com/QuinttAdam/nodejs-messages-api-2)
 [Codesanbox link](https://xldmz2.csb.app/)
+##  Lab5
+[Github link](https://github.com/QuinttAdam/tiktok)
+[Vercel link](https://tiktok-zeta-flax.vercel.app/)
+##  Lab6
+gif:
+![Zight Recording at 2023-12-4 at 22 19 36](https://github.com/QuinttAdam/dev5-portfolios-2023/assets/116001984/79dd4ab0-58be-45da-8a7f-69f9ec7bc387)
+
+[Github frontend link](https://github.com/QuinttAdam/lab6_frontend)
+[Github backend link](https://github.com/QuinttAdam/lab6_backend)
+[Vercel link](https://lab6-frontend-snowy.vercel.app/#/)

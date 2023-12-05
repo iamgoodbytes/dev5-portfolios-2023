@@ -1,3 +1,9 @@
+# link demo lab 6: https://lab6-frontend-two.vercel.app/
+# link github repo lab 6 backend: https://github.com/sarahlisamero/lab6_backend
+# link github repo lab 6 frontend: https://github.com/sarahlisamero/lab6_frontend
+# link video: https://share.zight.com/NQu5P6vq
+![Animated GIF](https://github.com/sarahlisamero/lab6_frontend/blob/main/GIFdemo.gif)
+
 # link demo lab 5 (vercel): https://labo5.vercel.app/
 # link github repo lab 5: https://github.com/sarahlisamero/labo5 
 

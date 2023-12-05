@@ -26,3 +26,14 @@
 [GitHub link](https://github.com/TiboMertens/labo5-vue)
 
 [Vercel link](https://labo5-vue.vercel.app/)
+
+## Lab 6 - Websockets live score 
+![GIF](https://github.com/TiboMertens/dev5-portfolios-2023/assets/102660621/7cf8abd5-2683-4574-a875-a5649de8ccf0)
+
+[GitHub link frontend](https://github.com/TiboMertens/socket-frontend)
+
+[GitHub link backend](https://github.com/TiboMertens/socket-backend)
+
+[Vercel link live scoreboard](https://socket-frontend-inky.vercel.app/#/)
+
+[Vercel link update stats](https://socket-frontend-inky.vercel.app/#/updatestats)
