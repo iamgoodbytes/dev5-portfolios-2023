@@ -8,4 +8,4 @@
 | `'Lab 3 - Weather Based Ad'` | https://github.com/JarneSimons/labo3-DEV           | https://codesandbox.io/s/labo3-dev-4klxn8?file=/index.html               |
 | `'Lab 4 - NodeJS'`           | https://github.com/JarneSimons/labo4dev           | https://d88lcx.csb.app/              |
 | `'Lab 5 - VueJS'`            | https://labo5-dev-jarne-simons-projects.vercel.app/            |               |
-| `'Lab 6 - Web Sockets'`      |            |               |
+| `'Lab 6 - Web Sockets'`      | https://github.com/JarneSimons/labo6-FRONTEND           | https://github.com/JarneSimons/labo6-BACKEND | https://labo6-frontend.vercel.app/              |![Zight Recording at 2023-12-9 at 18 13 03](https://github.com/JarneSimons/dev5-portfolios-2023/assets/116001969/04c5b571-10c3-421e-9c9d-eaaec20b7867) 
